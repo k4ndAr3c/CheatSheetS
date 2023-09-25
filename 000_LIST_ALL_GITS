@@ -263,6 +263,8 @@
 ./sophron
 ./sophron/wifiphisher
 ./TRIKKSS
+./TRIKKSS/NetMiaou
+./TRIKKSS/pngSizeBruteForce
 ./TRIKKSS/findcrypt-cli
 ./TRIKKSS/trikkssdbg
 ./leeroybrun
@@ -384,8 +386,10 @@
 ./natrix-fork
 ./natrix-fork/bizploit
 ./laluka
+./laluka/jolokia-exploitation-toolkit
 ./laluka/crawlz
 ./laluka/bypass-url-parser
+./laluka/pty4all
 ./alyakhtar
 ./alyakhtar/Katastrophe
 ./RickdeJager
@@ -528,6 +532,7 @@
 ./pupi1985/marfil
 ./MasonCompetitiveCyber
 ./MasonCompetitiveCyber/PatriotCTF2022-Public
+./MasonCompetitiveCyber/PatriotCTF2023
 ./robocoder
 ./robocoder/rips-scanner
 ./trichimtrich
@@ -556,6 +561,8 @@
 ./panagiks
 ./panagiks/RSPET
 ./panagiks/port_scanner
+./OpenToAllCTF
+./OpenToAllCTF/Tips
 ./marselester
 ./marselester/lsb
 ./rebe11ion
@@ -798,6 +805,8 @@
 ./BinaryNinjaPluginsNccGroup/binja_explain_instruction
 ./BinaryNinjaPluginsNccGroup/binja_dynamics
 ./BinaryNinjaPluginsNccGroup/binja_sensei
+./apogiatzis
+./apogiatzis/gdb-peda-pwndbg-gef
 ./MetaChar
 ./MetaChar/Mercury
 ./webpwnized
@@ -834,6 +843,8 @@
 ./codetainerapp/codetainer
 ./FreelancePentester
 ./FreelancePentester/ddos-script
+./PHProxy
+./PHProxy/phproxy
 ./clr2of8
 ./clr2of8/DPAT
 ./nvbn
@@ -987,6 +998,8 @@
 ./sherlock-project/sherlock
 ./gizmore
 ./gizmore/anonymous-zen-book
+./D13David
+./D13David/ctf-writeups
 ./carmaa
 ./carmaa/inception
 ./Inshallhack
@@ -1351,6 +1364,8 @@
 ./adaptivethreat/EmPyre
 ./adaptivethreat/BloodHound
 ./adaptivethreat/Empire
+./rizinorg
+./rizinorg/rz-ghidra
 ./mobrine-mob
 ./mobrine-mob/M0B-tool
 ./jedisct1
@@ -1630,6 +1645,13 @@
 ./sam-b/pilloc
 ./subgraph
 ./subgraph/Vega
+./arget13
+./arget13/d4006af981356cdfb0316a722a0c90e3
+./arget13/DDexec
+./arget13/c9925f2f404b633f05df41e6d0285c89
+./arget13/039ea4a655f53c79b537bdd8a88ce735
+./arget13/memdlopen
+./arget13/memexec
 ./FooBallZ
 ./FooBallZ/PentestHelpers
 ./fdiskyou
@@ -1803,6 +1825,8 @@
 ./ysrc/F-Scrack
 ./eranon
 ./eranon/CNonymizer
+./afrantzis
+./afrantzis/bless
 ./t00sh
 ./t00sh/elf-poison
 ./t00sh/rss-bot
@@ -1814,6 +1838,9 @@
 ./t00sh/vm-make
 ./fswrangler
 ./fswrangler/VileFault
+./leirn
+./leirn/exif_cleaner
+./leirn/XORFile
 ./peewpw
 ./peewpw/Invoke-PSImage
 ./superponible
@@ -2403,6 +2430,8 @@
 ./antoineduban/rootme
 ./Harvie
 ./Harvie/ArchLinux-Daemon-Manager
+./liwingyankobe
+./liwingyankobe/riddlimg
 ./SecureState
 ./SecureState/termineter
 ./SecureState/syringe
@@ -2747,6 +2776,7 @@
 ./nccgroup/cisco-SNMP-enumeration
 ./nccgroup/featherduster
 ./nccgroup/diskwalker
+./nccgroup/autochrome
 ./nccgroup/singularity
 ./nccgroup/VCG
 ./nccgroup/autopwn
@@ -3180,6 +3210,13 @@
 ./BusesCanFly/PRETty
 ./wayneeseguin
 ./wayneeseguin/rvm
+./D3vil0p3r
+./D3vil0p3r/timeverter
+./D3vil0p3r/cookey
+./D3vil0p3r/comMENTOR
+./D3vil0p3r/WriteUps
+./D3vil0p3r/HackTheBox-API
+./D3vil0p3r/PassGAN
 ./NullHypothesis
 ./NullHypothesis/exitmap
 ./Anorov
@@ -3317,6 +3354,8 @@
 ./n3mo
 ./n3mo/massmine
 ./n3mo/jsan--JSON-Swiss-Army-kNife
+./knez
+./knez/defender-dump
 ./Dionach
 ./Dionach/FlashSec
 ./Dionach/bcoles
@@ -3347,6 +3386,8 @@
 ./OsandaMalith/WMI
 ./aksakalli
 ./aksakalli/gtop
+./HackademINT
+./HackademINT/404CTF-2023
 ./rezasp
 ./rezasp/vbscan
 ./Hackplayers
@@ -3599,6 +3640,9 @@
 ./firehol/netdata
 ./vulmon
 ./vulmon/Vulmap
+./thalium
+./thalium/symless
+./thalium/thalium_ctf
 ./arkem
 ./arkem/pyflag
 ./coldfusion39
@@ -3772,6 +3816,10 @@
 ./gdedrouas/Exchange-AD-Privesc
 ./thp
 ./thp/numptyphysics
+./IDAPluginProject
+./IDAPluginProject/goomba77
+./IDAPluginProject/idaplugins-list
+./IDAPluginProject/IDARustDemangler
 ./veonik
 ./veonik/squircy3
 ./veonik/squircy2
@@ -3967,6 +4015,8 @@
 ./unix-thrust/BEURK
 ./Need-To-Learn
 ./Need-To-Learn/rootme_login
+./aristocratos
+./aristocratos/btop4win
 ./eur0pa
 ./eur0pa/ringzer0-ctf
 ./AngelSecurityTeam
@@ -4044,6 +4094,9 @@
 ./OffensivePython/Nscan
 ./cryptax
 ./cryptax/angepoc
+./timetravelthree
+./timetravelthree/kpwninit
+./timetravelthree/IDARustDemangler
 ./nathanlopez
 ./nathanlopez/Stitch
 ./appsecco
@@ -4128,6 +4181,9 @@
 ./Ft44k/yavol
 ./clonesec
 ./clonesec/osDiscover
+./uilicious
+./uilicious/inboxkitten
+./uilicious/kittenrouter
 ./mthbernardes
 ./mthbernardes/GTRS
 ./mthbernardes/CheckEmail
@@ -4216,6 +4272,9 @@
 ./elttam/canary-fun
 ./lucyoa
 ./lucyoa/kernel-exploits
+./bL34cHig0
+./bL34cHig0/Free-Certifications
+./bL34cHig0/Pentest-Resources-Cheat-Sheets
 ./secgroundzero
 ./secgroundzero/warberry
 ./andrewjkerr

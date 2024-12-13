@@ -42,6 +42,8 @@
 ./JulienPalard/PyWebScrap
 ./JulienPalard/is_utf8
 ./JulienPalard/ashttp
+./djosix
+./djosix/padding_oracle.py
 ./roissy
 ./roissy/l0l
 ./m101
@@ -139,10 +141,15 @@
 ./dotcppfile
 ./dotcppfile/DAws
 ./dotcppfile/Serbot
+./project-sekai-ctf
+./project-sekai-ctf/sekaictf-2023
+./project-sekai-ctf/sekaictf-2022
 ./ex0dus-0x
 ./ex0dus-0x/brut3k1t
 ./ex0dus-0x/dedsploit
 ./ex0dus-0x/pypayload
+./debian
+./debian/deborphan
 ./k4m4
 ./k4m4/onioff
 ./k4m4/dymerge
@@ -290,6 +297,8 @@
 ./bruvzg/gdsdecomp
 ./joshskidmore
 ./joshskidmore/zsh-fzf-history-search
+./Rysess
+./Rysess/NFSExtractor
 ./shawarkhanethicalhacker
 ./shawarkhanethicalhacker/csrfpocmaker
 ./shawarkhanethicalhacker/BruteXSS
@@ -304,6 +313,8 @@
 ./LukaSikic
 ./LukaSikic/HaCoder.py
 ./LukaSikic/Unix-Privilege-Escalation-Exploits-Pack
+./sidmittal32
+./sidmittal32/pwn.college
 ./lyy289065406
 ./lyy289065406/CTF-Solving-Reports
 ./zeropointdynamics
@@ -399,6 +410,8 @@
 ./tallykatt/xpath-blind-explorer
 ./Souhardya
 ./Souhardya/UBoat
+./prjblk
+./prjblk/wordpress-audit-automation
 ./gabemarshall
 ./gabemarshall/Brosec
 ./TraaaxX
@@ -426,10 +439,13 @@
 ./laluka/sthack-2024-challs
 ./laluka/jolokia-exploitation-toolkit
 ./laluka/lalubuntu
+./laluka/dev-sec-training
 ./laluka/crawlz
 ./laluka/broneypote
+./laluka/headless-updateless-brainless
 ./laluka/bypass-url-parser
 ./laluka/pty4all
+./laluka/simple-ascii-camera
 ./alyakhtar
 ./alyakhtar/Katastrophe
 ./RickdeJager
@@ -455,6 +471,8 @@
 ./cchio
 ./cchio/cool-php-captcha
 ./cchio/deep-pwning
+./mindedsecurity
+./mindedsecurity/semgrep-rules-android-security
 ./misfotto
 ./misfotto/backbox-wireless-tools
 ./maxcompston
@@ -568,6 +586,8 @@
 ./craigz28/firmwalker
 ./miszr
 ./miszr/volatility
+./philsmd
+./philsmd/7z2hashcat
 ./hit9
 ./hit9/img2txt
 ./ZEROF
@@ -580,9 +600,12 @@
 ./s1syphu5/s1syphu5-RootMe-Challenges
 ./pupi1985
 ./pupi1985/marfil
+./Log-s
+./Log-s/Rootme-Stepper
 ./stark0de
 ./stark0de/nginxpwner
 ./MasonCompetitiveCyber
+./MasonCompetitiveCyber/PatriotCTF2024
 ./MasonCompetitiveCyber/PatriotCTF2022-Public
 ./MasonCompetitiveCyber/PatriotCTF2023
 ./robocoder
@@ -593,6 +616,9 @@
 ./dutchcoders/transfer.sh
 ./husam212
 ./husam212/MITMer
+./assetnote
+./assetnote/blind-ssrf-chains
+./assetnote/nowafpls
 ./dirtyfilthy
 ./dirtyfilthy/metassh
 ./B3nac
@@ -678,6 +704,8 @@
 ./dloss/python-pentest-tools
 ./owtf
 ./owtf/owtf
+./EdOverflow
+./EdOverflow/bugbounty-cheatsheet
 ./mattiareggiani
 ./mattiareggiani/WinEnum
 ./ValarDragon
@@ -713,6 +741,12 @@
 ./n1kn4x/timing-analysis
 ./x4nth055
 ./x4nth055/pythoncode-tutorials
+./skilo-sh
+./skilo-sh/Data-Structures
+./skilo-sh/Web_Server_in_nasm
+./skilo-sh/Calculation-of-the-Euler-s-number
+./skilo-sh/Calculation-of-the-PI-Number
+./skilo-sh/Pseudorandom-numbers-with-LFSR
 ./epsylon
 ./epsylon/cintruder
 ./epsylon/pydog4apache
@@ -777,6 +811,7 @@
 ./linrunner/TLP
 ./jbranchaud
 ./jbranchaud/today_i_learned
+./jbranchaud/til
 ./CleanCut
 ./CleanCut/ultimate_rust_crash_course
 ./salls
@@ -795,6 +830,7 @@
 ./dockur
 ./dockur/windows
 ./williballenthin
+./williballenthin/python-registry
 ./williballenthin/python-evtx
 ./deetl
 ./deetl/CVE-2023-24055_keepass
@@ -821,6 +857,8 @@
 ./Tribler/tribler
 ./zblurx
 ./zblurx/impersonate-rs
+./Yeeyooo
+./Yeeyooo/pwn-college-writeups
 ./tiago4orion
 ./tiago4orion/nmap-scripts
 ./tiago4orion/checkdigit
@@ -833,6 +871,7 @@
 ./yeswehack/yeswehack_vdp_finder
 ./yeswehack/vulnerable-code-snippets
 ./yeswehack/xsstools
+./yeswehack/Dom-Explorer
 ./yeswehack/BCheck-Burp-scripts
 ./yeswehack/pp-finder
 ./C3n7ral051nt4g3ncy
@@ -858,6 +897,8 @@
 ./jimweirich
 ./jimweirich/rake
 ./jimweirich/re
+./zelinsky
+./zelinsky/CTF-Course
 ./t0thkr1s
 ./t0thkr1s/infosecadventures.com
 ./justinmeza
@@ -910,6 +951,12 @@
 ./tontof/kriss_feed
 ./ydkhatri
 ./ydkhatri/spotlight_parser
+./Cpasjuste
+./Cpasjuste/sscrap
+./Cpasjuste/nestopia
+./Cpasjuste/snes9x
+./Cpasjuste/libcross2d
+./Cpasjuste/pemu
 ./isislab
 ./isislab/Catfish
 ./isislab/Hack-Night
@@ -990,6 +1037,7 @@
 ./EthanBlackburn
 ./EthanBlackburn/HTSmission3
 ./ert-plus
+./ert-plus/1414276e4cb5d56dd431c2f0429e4429
 ./ert-plus/cmd_injection_exiftool_2.38max
 ./tmux-plugins
 ./tmux-plugins/tmux-sensible
@@ -1043,6 +1091,8 @@
 ./pwndbg/pwndbg
 ./leonteale
 ./leonteale/pentestpackage
+./TinySnow
+./TinySnow/TinySnow.github.io
 ./enaqx
 ./enaqx/awesome-pentest
 ./gelim
@@ -1119,6 +1169,8 @@
 ./andresriancho
 ./andresriancho/mongo-objectid-predict
 ./andresriancho/w3af
+./1sis
+./1sis/Angecryption
 ./cloudburst
 ./cloudburst/libheap
 ./Z4kSec
@@ -1132,6 +1184,8 @@
 ./sha0coder/dirscan
 ./longld
 ./longld/peda
+./stanfrbd
+./stanfrbd/searchcve
 ./garabik
 ./garabik/unicode
 ./olivierverdier
@@ -1149,8 +1203,12 @@
 ./RUB-NDS/PRET
 ./5loyd
 ./5loyd/trochilus
+./akabe1
+./akabe1/akabe1-semgrep-rules
 ./duesee
 ./duesee/bleichenbacher
+./Jonathan-Adly
+./Jonathan-Adly/AgentRun
 ./ihack4falafel
 ./ihack4falafel/OSEE
 ./ihack4falafel/SLAE64
@@ -1181,6 +1239,8 @@
 ./maxou515/maxou515-Root-me
 ./torque59
 ./torque59/Nosql-Exploitation-Framework
+./X3NNY
+./X3NNY/xenny
 ./K2
 ./K2/EhTrace
 ./a_atalla
@@ -1197,6 +1257,9 @@
 ./subTee
 ./subTee/PoshRat
 ./subTee/Interceptor
+./exosyphon
+./exosyphon/dotfiles
+./exosyphon/nvim
 ./gteissier
 ./gteissier/xdebug-shell
 ./argos83
@@ -1241,6 +1304,7 @@
 ./putterpanda/mimikittenz
 ./doyensec
 ./doyensec/graphql-inql
+./doyensec/inql
 ./MrSqar-Ye
 ./MrSqar-Ye/JScanner
 ./MrSqar-Ye/GetServerSites
@@ -1258,6 +1322,8 @@
 ./ulissescastro/linux-native-backdoors
 ./kyrus
 ./kyrus/PyMyo
+./0xdea
+./0xdea/semgrep-rules
 ./infodox
 ./infodox/webstrike
 ./infodox/weevils
@@ -1364,6 +1430,8 @@
 ./nullbind/Powershellery
 ./delvelabs
 ./delvelabs/vane
+./ChuloAI
+./ChuloAI/code-it
 ./mossmann
 ./mossmann/hackrf
 ./friuns2
@@ -1387,6 +1455,7 @@
 ./PwnDexter/SharpEDRChecker
 ./trailofbits
 ./trailofbits/http-security
+./trailofbits/semgrep-rules
 ./trailofbits/onesixtyone
 ./NationalSecurityAgency
 ./NationalSecurityAgency/ghidra
@@ -1475,6 +1544,8 @@
 ./internetwache/GitTools
 ./threeplanetssoftware
 ./threeplanetssoftware/apple_cloud_notes_parser
+./finalburnneo
+./finalburnneo/FBNeo
 ./almandin
 ./almandin/fuxploider
 ./ciphey
@@ -1522,6 +1593,8 @@
 ./localh0t/backfuzz
 ./localh0t/port-tester
 ./localh0t/wildpwn
+./nmatt0
+./nmatt0/mitmrouter
 ./mitmproxy
 ./mitmproxy/netlib
 ./mitmproxy/mitmproxy
@@ -1541,6 +1614,8 @@
 ./fb1h2s
 ./fb1h2s/cve-2014-0160
 ./fb1h2s/captcha-cracker
+./marin-m
+./marin-m/vmlinux-to-elf
 ./DominikStyp
 ./DominikStyp/auto-reaver
 ./mkbrutusproject
@@ -1553,6 +1628,8 @@
 ./NullArray/AutoSploit
 ./NullArray/Keylogger
 ./NullArray/RootHelper
+./xajkep
+./xajkep/wordlists
 ./scrapfly
 ./scrapfly/scrapfly-scrapers
 ./leonli96
@@ -1678,6 +1755,9 @@
 ./m4ll0k/Unicode
 ./warner
 ./warner/python-ecdsa
+./h311d1n3r
+./h311d1n3r/Cerberus
+./h311d1n3r/HadesDbg
 ./mgeeky
 ./mgeeky/VisualBasicObfuscator
 ./mgeeky/dirbuster
@@ -1738,6 +1818,8 @@
 ./skahwah/wordsmith.SVG
 ./ntrippar
 ./ntrippar/ARPwner
+./ajeetdsouza
+./ajeetdsouza/zoxide
 ./BrahimFouad
 ./BrahimFouad/GmailChecker
 ./claudioviviani
@@ -1753,6 +1835,8 @@
 ./c0defellas/pybin
 ./RoseTek
 ./RoseTek/SCA-CPA-AES
+./bkerler
+./bkerler/exploit_me
 ./projectdiscovery
 ./projectdiscovery/interactsh
 ./projectdiscovery/nuclei
@@ -1794,6 +1878,8 @@
 ./d4rc0d3x/d4rc0d3x-ctfs
 ./jkbrzt
 ./jkbrzt/httpie
+./d0rb
+./d0rb/CVE-2024-6387
 ./LaNMaSteR53
 ./LaNMaSteR53/peepingtom
 ./LaNMaSteR53/recon-ng
@@ -1809,6 +1895,8 @@
 ./Snifer/GPT
 ./dnschneid
 ./dnschneid/crouton
+./ahmedfgad
+./ahmedfgad/ArithmeticEncodingPython
 ./sam-b
 ./sam-b/z3-stuff
 ./sam-b/pilloc
@@ -2019,6 +2107,8 @@
 ./leirn
 ./leirn/exif_cleaner
 ./leirn/XORFile
+./CVxTz
+./CVxTz/llm-serve-tutorial
 ./peewpw
 ./peewpw/Invoke-PSImage
 ./superponible
@@ -2044,6 +2134,13 @@
 ./cranklin
 ./cranklin/Python-Virus
 ./cranklin/http-auth-crack
+./NeuralNine
+./NeuralNine/config-files
+./NeuralNine/camera-classifier
+./NeuralNine/youtube-tutorials
+./NeuralNine/ai-car-simulation
+./zteeed
+./zteeed/Root-Me-API
 ./etsy
 ./etsy/phan
 ./ronreiter
@@ -2177,6 +2274,10 @@
 ./hasherezade/flareon2019
 ./hasherezade/process_chameleon
 ./hasherezade/snippets
+./marlonrichert
+./marlonrichert/zsh-autocomplete
+./rampageX
+./rampageX/firmware-mod-kit
 ./camp0
 ./camp0/firesql
 ./camp0/aiengine
@@ -2194,6 +2295,8 @@
 ./jonathanklee/ngp
 ./Ne0nd0g
 ./Ne0nd0g/merlin
+./Sysinternals
+./Sysinternals/ProcDump-for-Linux
 ./radare
 ./radare/radare2
 ./agavrel
@@ -2283,6 +2386,8 @@
 ./DanMcInerney/xsscrapy
 ./DanMcInerney/LANs.py
 ./DanMcInerney/wifijammer
+./lay295
+./lay295/TwitchDownloader
 ./skelsec
 ./skelsec/pypykatz
 ./kernoeb
@@ -2290,6 +2395,7 @@
 ./epinna
 ./epinna/Weevely
 ./epinna/tplmap
+./epinna/Unusedpkg
 ./epinna/weevely3
 ./nullsecuritynet
 ./nullsecuritynet/Windows10Exploits
@@ -2304,6 +2410,8 @@
 ./ctxis/RDP-Replay
 ./sibears
 ./sibears/IDAGolangHelper
+./Nqsir
+./Nqsir/Ft_printf
 ./cornerpirate
 ./cornerpirate/JS2PDFInjector
 ./rk700
@@ -2377,6 +2485,8 @@
 ./HeroCTF/HeroCTF_v2
 ./s-rah
 ./s-rah/onionscan
+./ekeeke
+./ekeeke/Genesis-Plus-GX
 ./Mayfly277
 ./Mayfly277/mycheatsheet
 ./Qwaz
@@ -2389,6 +2499,8 @@
 ./SakiiR/timeauth
 ./Flangvik
 ./Flangvik/SharpCollection
+./davidbonnet
+./davidbonnet/astring
 ./Kabot
 ./Kabot/mig-logcleaner-resurrected
 ./Kabot/Unix-Privilege-Escalation-Exploits-Pack
@@ -2439,6 +2551,8 @@
 ./zhijieshi/md5collgen
 ./mazen160
 ./mazen160/bfac
+./jdouliez
+./jdouliez/rootme-challenges-finder
 ./Un0wnX
 ./Un0wnX/swaparoo
 ./JonDoNym
@@ -2486,6 +2600,8 @@
 ./slimm609/checksec.sh
 ./0xmitsurugi
 ./0xmitsurugi/gdbscripts
+./ticarpi
+./ticarpi/jwt_tool
 ./Mr-Un1k0d3r
 ./Mr-Un1k0d3r/Shellcoding
 ./Mr-Un1k0d3r/ThunderShell
@@ -2535,6 +2651,8 @@
 ./ONsec-Lab
 ./ONsec-Lab/Rand-attacks
 ./ONsec-Lab/scripts
+./coffinxp
+./coffinxp/loxs
 ./ChrisTruncer
 ./ChrisTruncer/EyeWitness
 ./ChrisTruncer/Hasher
@@ -2651,6 +2769,7 @@
 ./cyrus-and/zizzania
 ./cyrus-and/xkeylogger
 ./cyrus-and/gdb-dashboard
+./cyrus-and/mysql-unsha1
 ./T-S-A
 ./T-S-A/smbspider
 ./gstarnberger
@@ -2683,11 +2802,15 @@
 ./SecureState/eapeak
 ./CaledoniaProject
 ./CaledoniaProject/AxisInvoker
+./orhun
+./orhun/binsider
 ./sergeyfrolov
 ./sergeyfrolov/multiple_md5_collisions
 ./PowerShellEmpire
 ./PowerShellEmpire/PowerTools
 ./PowerShellEmpire/Empire
+./andrewsui
+./andrewsui/ctf
 ./shipcod3
 ./shipcod3/mySapAdventures
 ./Markakd
@@ -2834,9 +2957,12 @@
 ./0xMirasio
 ./0xMirasio/IDAPlugins
 ./0xMirasio/SSTIC2022
+./0xMirasio/IDASerieTutorial
 ./0xMirasio/IDALibcAutoFlags
 ./0xMirasio/IDAAutoResolv2
 ./0xMirasio/IDARustDemangler
+./maxchehab
+./maxchehab/CSS-Keylogging
 ./Acceis
 ./Acceis/vulnerable-code-snippets
 ./foxglovesec
@@ -2910,6 +3036,8 @@
 ./pentestgeek/smbexec-ruby
 ./pentestgeek/scripts
 ./pentestgeek/phishing-frenzy
+./foundry-rs
+./foundry-rs/foundry
 ./MxDkl
 ./MxDkl/pls
 ./f0rb1dd3n
@@ -3021,6 +3149,8 @@
 ./tatanus/SPF
 ./tatanus/RandProxy
 ./tatanus/PHISHING
+./AethliosIK
+./AethliosIK/reset-tolkien
 ./xoreaxeaxeax
 ./xoreaxeaxeax/movfuscator
 ./hanasuru
@@ -3031,6 +3161,8 @@
 ./hanasuru/Machine-Learning
 ./sorin-ionescu
 ./sorin-ionescu/prezto
+./oobabooga
+./oobabooga/text-generation-webui
 ./emptymonkey
 ./emptymonkey/pretend
 ./emptymonkey/shelljack
@@ -3039,6 +3171,8 @@
 ./emptymonkey/mimic
 ./emptymonkey/ew
 ./emptymonkey/sudo_mitm
+./AlmondOffSec
+./AlmondOffSec/PoCs
 ./nccgroup
 ./nccgroup/port-scan-automation
 ./nccgroup/gitpwnd
@@ -3054,6 +3188,7 @@
 ./nccgroup/featherduster
 ./nccgroup/diskwalker
 ./nccgroup/autochrome
+./nccgroup/WCFDSer-ngng
 ./nccgroup/singularity
 ./nccgroup/VCG
 ./nccgroup/autopwn
@@ -3171,6 +3306,8 @@
 ./thewhiteh4t/pwnedOrNot
 ./thewhiteh4t/seeker
 ./Orange-Cyberdefense
+./Orange-Cyberdefense/ocd-mindmaps
+./Orange-Cyberdefense/grepmarx
 ./Orange-Cyberdefense/GOAD
 ./Orange-Cyberdefense/arsenal
 ./Orange-Cyberdefense/KeePwn
@@ -3199,6 +3336,8 @@
 ./whitel1st/docem
 ./seastorm
 ./seastorm/test-code-samples
+./tmpout
+./tmpout/awesome-elf
 ./tatam
 ./tatam/lama
 ./Hashdump
@@ -3239,9 +3378,13 @@
 ./decal/irc-uncloak-nse
 ./decal/os-cmd-lists
 ./decal/nmap2csv
+./matro7sh
+./matro7sh/keepass-dump-masterkey
 ./clem9669
 ./clem9669/hashcat-rule
 ./clem9669/wordlists
+./Chocapikk
+./Chocapikk/CVE-2023-22515
 ./pratX
 ./pratX/asga
 ./cbschuld
@@ -3302,6 +3445,8 @@
 ./commonexploits/livehosts
 ./k4ndAr3c
 ./k4ndAr3c/CheatSheetS
+./user1342
+./user1342/GhidraBridge
 ./304GEEK
 ./304GEEK/Scrape-DNS
 ./nlitsme
@@ -3463,6 +3608,8 @@
 ./j3ssie/metabigor
 ./tomerfiliba
 ./tomerfiliba/rpyc
+./s0rcy
+./s0rcy/semgrep-rules
 ./lulz3xploit
 ./lulz3xploit/LittleBrother
 ./AusJock
@@ -3513,6 +3660,10 @@
 ./beefproject/beef
 ./vnik5287
 ./vnik5287/kernel_rop
+./protectai
+./protectai/vulnhuntr
+./stopcovid19
+./stopcovid19/stopcovid-android
 ./RPISEC
 ./RPISEC/MBE
 ./RPISEC/HackTheVote
@@ -3591,6 +3742,7 @@
 ./m6a-UdS/ssrf-lab
 ./n0mi1k
 ./n0mi1k/pmkidcracker
+./n0mi1k/apk2url
 ./MaYaSeVeN
 ./MaYaSeVeN/Hacking-Workshop
 ./MaYaSeVeN/Wmap
@@ -3628,12 +3780,16 @@
 ./x64dbg/x64dbgpy
 ./gottburgm
 ./gottburgm/Exploits
+./mwielgoszewski
+./mwielgoszewski/python-paddingoracle
 ./leludo84
 ./leludo84/vol3-linux-profiles
 ./Esser420
 ./Esser420/EvilTwinFramework
 ./leetchicken
 ./leetchicken/belluminar
+./vah13
+./vah13/Firefox-CVE
 ./Rolix44
 ./Rolix44/Kubestroyer
 ./revolunet
@@ -3654,6 +3810,8 @@
 ./Daeinar/dfa-aes
 ./neurobin
 ./neurobin/shc
+./AstroNvim
+./AstroNvim/AstroNvim
 ./miyagawa
 ./miyagawa/cpanminus
 ./kozmer
@@ -3757,6 +3915,8 @@
 ./Hackplayers/evil-winrm
 ./Hackplayers/4nonimizer
 ./Hackplayers/hackthebox-writeups
+./HuskyHacks
+./HuskyHacks/PMAT-labs
 ./redteamsecurity
 ./redteamsecurity/AutoNessus
 ./extremecoders-re
@@ -3869,6 +4029,8 @@
 ./Wh1t3Fox/Python-Bot
 ./Wh1t3Fox/hackthissite
 ./Wh1t3Fox/irc_bot
+./Hellsender01
+./Hellsender01/CTF-Writeups
 ./xct
 ./xct/ropstar
 ./xct/sshdoor
@@ -3951,6 +4113,7 @@
 ./jekyc/wig
 ./LighTend3r
 ./LighTend3r/generate-file-upload
+./LighTend3r/scoreboard_root-me_for_discord
 ./th3breacher
 ./th3breacher/Adminator
 ./GDSSecurity
@@ -4022,6 +4185,8 @@
 ./albertan017/LLM4Decompile
 ./Hadopire
 ./Hadopire/Root-me-App-Systeme
+./magnumripper
+./magnumripper/JohnTheRipper
 ./TonyPhipps
 ./TonyPhipps/THRecon
 ./TonyPhipps/Powershell
@@ -4040,6 +4205,8 @@
 ./thalium/thalium_ctf
 ./arkem
 ./arkem/pyflag
+./swoops
+./swoops/eval_villain
 ./coldfusion39
 ./coldfusion39/domi-owned
 ./rfxn
@@ -4135,6 +4302,8 @@
 ./huntergregal/tools
 ./huntergregal/pycrawl
 ./huntergregal/mimipenguin
+./mzet-
+./mzet-/linux-exploit-suggester
 ./ptr-yudai
 ./ptr-yudai/ptrlib
 ./evyatarmeged
@@ -4172,6 +4341,8 @@
 ./neex/tcp-over-http
 ./neex/phuip-fpizdam
 ./neex/http2smugl
+./CMNatic
+./CMNatic/CVE-2024-21413
 ./aress31
 ./aress31/wirespy
 ./ethicalhack3r
@@ -4218,6 +4389,8 @@
 ./r00t-3xp10it/netool-toolkit
 ./r00t-3xp10it/morpheus
 ./r00t-3xp10it/msf-auxiliarys
+./Cog-Creators
+./Cog-Creators/Red-DiscordBot
 ./scslab
 ./scslab/tcpcrypt
 ./getpelican
@@ -4232,6 +4405,8 @@
 ./ehabhussein/snmpvlan
 ./gdedrouas
 ./gdedrouas/Exchange-AD-Privesc
+./martinschneider01
+./martinschneider01/awesome-42-lyon
 ./thp
 ./thp/numptyphysics
 ./maple3142
@@ -4430,6 +4605,8 @@
 ./n0fate/volafox
 ./n0fate/chainbreaker
 ./n0fate/keychaindump
+./jjcomline
+./jjcomline/padding-oracle-attack
 ./lunarca
 ./lunarca/SimpleEmailSpoofer
 ./mgba-emu
@@ -4441,6 +4618,8 @@
 ./thesp0nge/cross
 ./thesp0nge/owasp-orizon
 ./thesp0nge/aurora
+./gquere
+./gquere/mRemoteNG_password_decrypt
 ./integeruser
 ./integeruser/on-pwning
 ./devanshbatham
@@ -4549,6 +4728,8 @@
 ./dirtycow/dirtycow.github.io
 ./guelfoweb
 ./guelfoweb/knock
+./LucasParsy
+./LucasParsy/haccks
 ./OffensivePython
 ./OffensivePython/Proxist
 ./OffensivePython/Pinject
@@ -4618,6 +4799,9 @@
 ./marco-lancini/goscan
 ./openwall
 ./openwall/php_mt_seed
+./MathisHammel
+./MathisHammel/CroixPharmacie
+./MathisHammel/stringcheese
 ./xairy
 ./xairy/kernel-exploits
 ./xairy/angel-dust
@@ -4682,6 +4866,8 @@
 ./Jubei-Mitsuyoshi/aaa-thad0ctor
 ./CVEProject
 ./CVEProject/cvelistV5
+./j4k0xb
+./j4k0xb/webcrack
 ./NetSPI
 ./NetSPI/Burp-Extensions
 ./NetSPI/JavaSerialKiller
@@ -4745,6 +4931,8 @@
 ./elttam/canary-fun
 ./lucyoa
 ./lucyoa/kernel-exploits
+./Automattic
+./Automattic/wpscan-vulnerability-test-bench
 ./bL34cHig0
 ./bL34cHig0/Free-Certifications
 ./bL34cHig0/Pentest-Resources-Cheat-Sheets
@@ -4753,6 +4941,8 @@
 ./HashPals
 ./HashPals/Search-That-Hash
 ./HashPals/name-that-hash
+./Et3rnos
+./Et3rnos/ImaginaryCTF
 ./andrewjkerr
 ./andrewjkerr/xss-challenges
 ./andrewjkerr/security-cheatsheets
@@ -4793,6 +4983,8 @@
 ./Jackbennett/ps-util
 ./BreizhCTF
 ./BreizhCTF/breizhctf-2023
+./Decurity
+./Decurity/semgrep-smart-contracts
 ./RandomStorm
 ./RandomStorm/RandomStormScripts
 ./RandomStorm/RSMangler
@@ -4829,7 +5021,9 @@
 ./yasoob/intermediatePython
 ./yasoob/youtube-dl-GUI
 ./Nishacid
+./Nishacid/Easy_RCE_Scanner
 ./Nishacid/WSAAR
+./Nishacid/OWASP-TOP10
 ./LiveOverflow
 ./LiveOverflow/PwnAdventure3
 ./LiveOverflow/liveoverflow_youtube
